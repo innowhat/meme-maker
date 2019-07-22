@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css",
-    "main.js": "/vnicorn-meme-maker/static/js/main.955d184e.chunk.js",
-    "main.js.map": "/vnicorn-meme-maker/static/js/main.955d184e.chunk.js.map",
+    "main.js": "/vnicorn-meme-maker/static/js/main.e9da30fc.chunk.js",
+    "main.js.map": "/vnicorn-meme-maker/static/js/main.e9da30fc.chunk.js.map",
     "runtime~main.js": "/vnicorn-meme-maker/static/js/runtime~main.ed6fb99e.js",
     "runtime~main.js.map": "/vnicorn-meme-maker/static/js/runtime~main.ed6fb99e.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.37ff1034.chunk.js": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js",
-    "static/js/2.37ff1034.chunk.js.map": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js.map",
+    "static/js/2.288c3487.chunk.js": "/vnicorn-meme-maker/static/js/2.288c3487.chunk.js",
+    "static/js/2.288c3487.chunk.js.map": "/vnicorn-meme-maker/static/js/2.288c3487.chunk.js.map",
     "index.html": "/vnicorn-meme-maker/index.html",
-    "precache-manifest.0ee7eb603db3bac2b11fec4756783974.js": "/vnicorn-meme-maker/precache-manifest.0ee7eb603db3bac2b11fec4756783974.js",
+    "precache-manifest.387d681bc2dba3d8f25a490fb5c6dd5a.js": "/vnicorn-meme-maker/precache-manifest.387d681bc2dba3d8f25a490fb5c6dd5a.js",
     "service-worker.js": "/vnicorn-meme-maker/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.179fbf68.chunk.css.map": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css.map"

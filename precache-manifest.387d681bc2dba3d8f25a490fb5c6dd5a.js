@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1054f84a2681ac538a9f6410dbf5ae3f",
+    "revision": "499563c6660aba835cec42affa6011c3",
     "url": "/vnicorn-meme-maker/index.html"
   },
   {
-    "revision": "3c31c4f67e95cbf786f0",
+    "revision": "a4b535dad62fdf0013d8",
     "url": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "1ae96f377686b46c290b",
+    "revision": "c9417226ae78d6e5746b",
     "url": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css"
   },
   {
-    "revision": "3c31c4f67e95cbf786f0",
-    "url": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js"
+    "revision": "a4b535dad62fdf0013d8",
+    "url": "/vnicorn-meme-maker/static/js/2.288c3487.chunk.js"
   },
   {
-    "revision": "1ae96f377686b46c290b",
-    "url": "/vnicorn-meme-maker/static/js/main.955d184e.chunk.js"
+    "revision": "c9417226ae78d6e5746b",
+    "url": "/vnicorn-meme-maker/static/js/main.e9da30fc.chunk.js"
   },
   {
     "revision": "f813e6dbd95349aa267d",
