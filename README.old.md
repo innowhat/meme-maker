@@ -1,2 +1,0 @@
-# vnicorn-meme-maker
-Lol
