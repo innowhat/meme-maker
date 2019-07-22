@@ -1,5 +1,5 @@
 # React JS Vnicorn Meme Maker        
-![ReactJS Vnicorn Meme Maker  ](resume-screenshot.jpg?raw=true "ReactJS Vnicorn Meme Maker  ")
+![ReactJS Vnicorn Meme Maker  ](vnicorn-meme-Screenshot.png?raw=true "ReactJS Vnicorn Meme Maker  ")
 ### <a href="https://innowhat.github.io/vnicorn-meme-maker">LIVE DEMO</a> 
 
 ## Description
