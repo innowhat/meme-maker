@@ -8,7 +8,7 @@ function MemeDisplay(props) {
           <div className="col-lg-8 mb-2">
             <div className="card">
               <h3 className="card-header text-muted">Meme Image</h3>
-              <div className="card-body">
+              <div className="row card-body">
                 <div id="my-meme" className="vnicornMeme">
                   <img
                     src={props.data.randomImg}
@@ -31,7 +31,7 @@ function MemeDisplay(props) {
           <div className="col-lg-4">
             <div className="card">
               <h4 className="card-header text-muted">Meme Information</h4>
-              <div className="card-body">
+              <div className="row card-body">
                 <form>
                   <div className="shadow-lg p-3 mb-3 bg-white rounded">
                     <p className="text-muted">Add image</p>
@@ -97,28 +97,28 @@ function MemeDisplay(props) {
                     />
                   </div>
 
-                  <div className="shadow-lg p-3 mb-3 bg-white rounded">
-                    <p className="text-muted">Download meme</p>
+                  <div className="shadow-lg p-3 mb-3 bg-white rounded text-center">
                     <div
-                      className="btn-group btn-group-md"
+                      className="btn-group btn-group-md "
                       role="group"
                       aria-label="Download type"
                     >
-                      <button
+                  {/*     <button
                         type="button"
                         s
                         className="btn btn-outline-info"
                         onClick={props.handlePng}
                       >
                         Download PNG
-                      </button>
+                      </button> */}
                       <button
                         type="button"
                         className="btn btn-outline-info"
                         onClick={props.handleJpeg}
                       >
-                        Download JPEG
+                        Download meme
                       </button>
+                      
                     </div>
                   </div>
                 </form>

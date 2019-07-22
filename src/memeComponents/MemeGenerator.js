@@ -49,16 +49,16 @@ class MemeGenerator extends React.Component {
   };
 
   //Download PNG image
-  handlePng() {
+/*   handlePng() {
     htmlToImage
       .toPng(document.getElementById("my-meme"))
       .then(function(dataUrl) {
         download(dataUrl, "my-meme.png");
       });
-  }
+  } */
 
   // Download JPEG image
-  handleJpeg() {
+  handleJpeg = () => {
     htmlToImage
       .toJpeg(document.getElementById("my-meme"), { quality: 0.95 })
       .then(function(dataUrl) {

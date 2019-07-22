@@ -11,7 +11,7 @@ function Header() {
             width="60"
             height="60"
           />
-          <span className=" h3 strong">{" Vnicorn Meme Maker"}</span>
+          <span className="strong">{" Vnicorn Meme Maker"}</span>
         </div>
       </div>
     </header>
