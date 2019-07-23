@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b5d767f92d475d1bb0d775cbca61822",
+    "revision": "066f8965b36161687853c2606f685403",
     "url": "/vnicorn-meme-maker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "383aa1e57d0fb6d636b2",
+    "revision": "0b9c89d0b9ad32895745",
     "url": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js"
   },
   {
-    "revision": "383aa1e57d0fb6d636b2",
-    "url": "/vnicorn-meme-maker/static/js/main.333ae31f.chunk.js"
+    "revision": "0b9c89d0b9ad32895745",
+    "url": "/vnicorn-meme-maker/static/js/main.ed1b81f2.chunk.js"
   },
   {
     "revision": "f813e6dbd95349aa267d",
