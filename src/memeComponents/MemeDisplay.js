@@ -5,18 +5,16 @@ function MemeDisplay(props) {
     <div className="jumbotron bg-info">
       <div className="container">
         <div className="row ">
-          <div className="col-lg-8 mb-2">
-            <div className="card">
-              <h3 className="card-header text-muted">Meme Image</h3>
-              <div className="row card-body">
-                <div id="my-meme" className="vnicornMeme">
+
+        <div className="col-md-12">
+      <div className="row border overflow-hidden mb-4">
+      <div className="col-lg-8 p-2 d-lg-block">
+      <div id="my-meme" className="vnicornMeme">
                   <img
                     src={props.data.randomImg}
-                    className="img-fluid img-thumbnail rounded border-info"
-                    alt=""
-                    width="100%"
+                    className="img-fluid img-thumbnail"
+                    alt="" width="100%"
                   />
-
                   <h2 className="topText">{props.data.topText}</h2>
                   <h2 className="bottomText">{props.data.bottomText}</h2>
                   <i className="authorText">
@@ -25,14 +23,10 @@ function MemeDisplay(props) {
                     )}
                   </i>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-4">
-            <div className="card">
-              <h4 className="card-header text-muted">Meme Information</h4>
-              <div className="row card-body">
-                <form>
+        </div>
+
+        <div className="col-lg-4 p-2 d-flex flex-column position-static">
+        <form>
                   <div className="shadow-lg p-3 mb-3 bg-white rounded">
                     <p className="text-muted">Add image</p>
                     <button
@@ -116,15 +110,16 @@ function MemeDisplay(props) {
                         className="btn btn-outline-info"
                         onClick={props.handleJpeg}
                       >
-                        Download meme
+                        Download JPEG
                       </button>
                     </div>
                   </div>
                 </form>
-              </div>
-            </div>
-          </div>
         </div>
+       
+      </div>
+    </div>
+      </div>
       </div>
     </div>
   );
