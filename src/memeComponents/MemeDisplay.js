@@ -103,14 +103,14 @@ function MemeDisplay(props) {
                       role="group"
                       aria-label="Download type"
                     >
-                  {/*     <button
+                      <button
                         type="button"
                         s
                         className="btn btn-outline-info"
                         onClick={props.handlePng}
                       >
                         Download PNG
-                      </button> */}
+                      </button>
                       <button
                         type="button"
                         className="btn btn-outline-info"
@@ -118,7 +118,6 @@ function MemeDisplay(props) {
                       >
                         Download meme
                       </button>
-                      
                     </div>
                   </div>
                 </form>
