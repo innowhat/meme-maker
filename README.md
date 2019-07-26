@@ -13,3 +13,7 @@ This is a ReactJS based Vnicorn Meme Maker (Make the World laugh again for cryin
 #### vnicorn
 You know who you are :)
 
+
+#### Known issue
+Sometimes downloads blanks on Safari browser
+Sometimes fails to download image on mobile (Safari/Mozilla) 
