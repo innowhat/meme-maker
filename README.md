@@ -17,3 +17,6 @@ You know who you are :)
 ## Known issues
 Sometimes downloads blanks on Safari browser
 Sometimes fails to download image on mobile (Safari/Mozilla) 
+
+## How to install
+Download > Open directory with Terminal/Command Prompt > npm install > npm start
