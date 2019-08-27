@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vnicorn-meme-maker/precache-manifest.2c187dba5ec03eb07d402033e3e78dcd.js"
+  "/vnicorn-meme-maker/precache-manifest.db8eaf519534b59b77192af4ee580d64.js"
 );
 
 self.addEventListener('message', (event) => {
