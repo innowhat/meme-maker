@@ -1,8 +1,8 @@
 {
-  "name": "vnicorn-meme-maker",
+  "name": "meme-maker",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://innowhat.github.io/vnicorn-meme-maker",
+  "homepage": "https://innowhat.github.io/meme-maker",
   "dependencies": {
     "@babel/runtime": "^7.5.5",
     "bootstrap": "^4.3.1",
