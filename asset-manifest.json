@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css",
-    "main.js": "/vnicorn-meme-maker/static/js/main.3a54f924.chunk.js",
-    "main.js.map": "/vnicorn-meme-maker/static/js/main.3a54f924.chunk.js.map",
-    "runtime~main.js": "/vnicorn-meme-maker/static/js/runtime~main.ed6fb99e.js",
-    "runtime~main.js.map": "/vnicorn-meme-maker/static/js/runtime~main.ed6fb99e.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.37ff1034.chunk.js": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js",
-    "static/js/2.37ff1034.chunk.js.map": "/vnicorn-meme-maker/static/js/2.37ff1034.chunk.js.map",
-    "index.html": "/vnicorn-meme-maker/index.html",
-    "precache-manifest.db8eaf519534b59b77192af4ee580d64.js": "/vnicorn-meme-maker/precache-manifest.db8eaf519534b59b77192af4ee580d64.js",
-    "service-worker.js": "/vnicorn-meme-maker/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/vnicorn-meme-maker/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.179fbf68.chunk.css.map": "/vnicorn-meme-maker/static/css/main.179fbf68.chunk.css.map"
+    "main.css": "/meme-maker/static/css/main.179fbf68.chunk.css",
+    "main.js": "/meme-maker/static/js/main.ea27ebab.chunk.js",
+    "main.js.map": "/meme-maker/static/js/main.ea27ebab.chunk.js.map",
+    "runtime~main.js": "/meme-maker/static/js/runtime~main.5e175b7e.js",
+    "runtime~main.js.map": "/meme-maker/static/js/runtime~main.5e175b7e.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/meme-maker/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.37ff1034.chunk.js": "/meme-maker/static/js/2.37ff1034.chunk.js",
+    "static/js/2.37ff1034.chunk.js.map": "/meme-maker/static/js/2.37ff1034.chunk.js.map",
+    "index.html": "/meme-maker/index.html",
+    "precache-manifest.df3fd5bc8bf9aaccae20e3c1436c2e9f.js": "/meme-maker/precache-manifest.df3fd5bc8bf9aaccae20e3c1436c2e9f.js",
+    "service-worker.js": "/meme-maker/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/meme-maker/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.179fbf68.chunk.css.map": "/meme-maker/static/css/main.179fbf68.chunk.css.map"
   }
 }
