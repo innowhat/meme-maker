@@ -1,17 +1,25 @@
 {
   "files": {
     "main.css": "/meme-maker/static/css/main.ab00b5dc.chunk.css",
-    "main.js": "/meme-maker/static/js/main.4e649472.chunk.js",
-    "main.js.map": "/meme-maker/static/js/main.4e649472.chunk.js.map",
-    "runtime~main.js": "/meme-maker/static/js/runtime~main.5e175b7e.js",
-    "runtime~main.js.map": "/meme-maker/static/js/runtime~main.5e175b7e.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/meme-maker/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.37ff1034.chunk.js": "/meme-maker/static/js/2.37ff1034.chunk.js",
-    "static/js/2.37ff1034.chunk.js.map": "/meme-maker/static/js/2.37ff1034.chunk.js.map",
+    "main.js": "/meme-maker/static/js/main.80486e19.chunk.js",
+    "main.js.map": "/meme-maker/static/js/main.80486e19.chunk.js.map",
+    "runtime-main.js": "/meme-maker/static/js/runtime-main.46cbf22e.js",
+    "runtime-main.js.map": "/meme-maker/static/js/runtime-main.46cbf22e.js.map",
+    "static/css/2.833dd627.chunk.css": "/meme-maker/static/css/2.833dd627.chunk.css",
+    "static/js/2.ca32979e.chunk.js": "/meme-maker/static/js/2.ca32979e.chunk.js",
+    "static/js/2.ca32979e.chunk.js.map": "/meme-maker/static/js/2.ca32979e.chunk.js.map",
     "index.html": "/meme-maker/index.html",
-    "precache-manifest.52cb1e43581ee7498019480f8172aefe.js": "/meme-maker/precache-manifest.52cb1e43581ee7498019480f8172aefe.js",
+    "precache-manifest.7c56e2fe2bad63176ad09e5836daba2c.js": "/meme-maker/precache-manifest.7c56e2fe2bad63176ad09e5836daba2c.js",
     "service-worker.js": "/meme-maker/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/meme-maker/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ab00b5dc.chunk.css.map": "/meme-maker/static/css/main.ab00b5dc.chunk.css.map"
-  }
+    "static/css/2.833dd627.chunk.css.map": "/meme-maker/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.ab00b5dc.chunk.css.map": "/meme-maker/static/css/main.ab00b5dc.chunk.css.map",
+    "static/js/2.ca32979e.chunk.js.LICENSE": "/meme-maker/static/js/2.ca32979e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46cbf22e.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.ca32979e.chunk.js",
+    "static/css/main.ab00b5dc.chunk.css",
+    "static/js/main.80486e19.chunk.js"
+  ]
 }
