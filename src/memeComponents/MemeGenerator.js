@@ -52,7 +52,7 @@ class MemeGenerator extends React.Component {
   handlePng = () => {
     htmlToImage
       .toPng(document.getElementById("my-meme"))
-      .then(function(dataUrl) {
+      .then(function (dataUrl) {
         download(dataUrl, "my-meme.png");
       });
   };
@@ -61,7 +61,7 @@ class MemeGenerator extends React.Component {
   handleJpeg = () => {
     htmlToImage
       .toJpeg(document.getElementById("my-meme"), { quality: 0.95 })
-      .then(function(dataUrl) {
+      .then(function (dataUrl) {
         var link = document.createElement("a");
         link.download = "my-meme.jpeg";
         link.href = dataUrl;

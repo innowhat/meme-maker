@@ -1,15 +1,15 @@
 import React from "react";
-
+import Header from './Header';
+import Footer from './Footer';
 function MemeDisplay(props) {
   return (
     <div className="jumbotron bg-info">
       <div className="container">
         <div className="row ">
-
-        <div className="col-md-12">
-      <div className="row border overflow-hidden mb-4">
-      <div className="col-lg-8 p-2 d-lg-block">
-      <div id="my-meme" className="vnicornMeme">
+          <div className="col-md-12">
+            <div className="row border overflow-hidden mb-4">
+              <div className="col-lg-8 p-2 d-lg-block">
+                <div id="my-meme" className="vnicornMeme">
                   <img
                     src={props.data.randomImg}
                     className="img-fluid img-thumbnail"
@@ -23,10 +23,12 @@ function MemeDisplay(props) {
                     )}
                   </i>
                 </div>
-        </div>
-
-        <div className="col-lg-4 p-2 d-flex flex-column position-static">
-        <form>
+              </div>
+              <div className="col-lg-4 p-2 d-flex flex-column position-static">
+                <div className="shadow-lg p-3 mb-3 bg-white rounded">
+                  <Header />
+                </div>
+                <form>
                   <div className="shadow-lg p-3 mb-3 bg-white rounded">
                     <p className="text-muted">Add image</p>
                     <button
@@ -77,10 +79,6 @@ function MemeDisplay(props) {
                       value={props.data.bottomText}
                       onChange={props.handleChange}
                     />
-                  </div>
-
-                  <div className="shadow-lg p-3 mb-3 bg-white rounded">
-                    <p className="text-muted">Add author</p>
                     <input
                       className="form-control border-info"
                       type="text"
@@ -115,11 +113,11 @@ function MemeDisplay(props) {
                     </div>
                   </div>
                 </form>
+              </div>
+            </div>
+            <Footer />
+          </div>
         </div>
-       
-      </div>
-    </div>
-      </div>
       </div>
     </div>
   );
